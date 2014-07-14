@@ -1,0 +1,170 @@
+absence : 
+ correct word
+ time taken for  absence is 18 
+
+ocidental : 
+incorrect word 
+suggestions for the word :  accident  accident's  accidental  accidentally  central  ideal  identical  incident  incident's  incidentally  time taken for  ocidental is 9301 
+
+acuraci : 
+incorrect word 
+suggestions for the word :  accuracy  accurate  attract  time taken for  acuraci is 11977 
+
+advanced : 
+ correct word
+ time taken for  advanced is 247 
+
+iffeting : 
+incorrect word 
+suggestions for the word :  accepting  acting  adopting  affecting  agreeing  altering  being  betting  biting  costing  time taken for  iffeting is 2725 
+
+algorithm : 
+ correct word
+ time taken for  algorithm is 430 
+
+announcement : 
+ correct word
+ time taken for  announcement is 778 
+
+drrangemet : 
+incorrect word 
+suggestions for the word :  arrange  arranged  arrangement  arrangement's  arrangements  arranges  arranging  danger  danger's  range  time taken for  drrangemet is 12505 
+
+bradcustin : 
+incorrect word 
+suggestions for the word :  adjust  bracket  brackets  broadcast  broadcasting  broadcasts  drastic  fraction  graduate  production  time taken for  bradcustin is 30251 
+
+heapes : 
+incorrect word 
+suggestions for the word :  ages  bases  bears  cares  cases  cease  cheap  cheaper  cheapest  creates  time taken for  heapes is 2243 
+
+commant : 
+incorrect word 
+suggestions for the word :  combine  coming  command  commands  comment  comment's  commented  comments  common  commonly  time taken for  commant is 1870 
+
+compleint : 
+incorrect word 
+suggestions for the word :  collect  combine  combining  coming  comment  comments  company  comparing  compiler  compiler's  time taken for  compleint is 2500 
+
+connections : 
+incorrect word 
+suggestions for the word :  actions  collecting  collection  collection's  collects  combinations  commenting  communications  competition  competition's  time taken for  connections is 3210 
+
+dedicion : 
+incorrect word 
+suggestions for the word :  addition  condition  decide  deciding  decision  decision's  decisions  dedicate  dedicated  dedicates  time taken for  dedicion is 4138 
+
+differecelt : 
+incorrect word 
+suggestions for the word :  differ  difference  difference's  differences  different  differently  difficult  difficulty  direct  directly  time taken for  differecelt is 43054 
+
+embarrassing : 
+incorrect word 
+suggestions for the word :  addressing  arranging  arriving  basing  borrowing  breaking  broadcasting  carrying  crashing  embarrass  time taken for  embarrassing is 5934 
+
+execusst : 
+incorrect word 
+suggestions for the word :  discuss  elect  elects  exact  except  excess  excess's  excuse  execute  executed  time taken for  execusst is 5214 
+
+dormatty : 
+incorrect word 
+suggestions for the word :  directly  dirty  domain  formal  format  format's  greatly  normal  normally  pretty  time taken for  dormatty is 23738 
+
+exeneraton : 
+incorrect word 
+suggestions for the word :  elevator  exception  expert  expert's  experts  explanation  expression  extension  general  generally  time taken for  exeneraton is 6502 
+
+guarownth : 
+incorrect word 
+suggestions for the word :  grown  growth  guarantee  time taken for  guarownth is 12600 
+
+husband : 
+ correct word
+ time taken for  husband is 5001 
+
+cimposted : 
+incorrect word 
+suggestions for the word :  closed  commented  compared  complete  completed  completes  compose  composed  composes  composing  time taken for  cimposted is 2566 
+
+inconvenience : 
+incorrect word 
+suggestions for the word :  conference  consequence  consequences  convenient  convention  convention's  conventional  conventions  convince  convinced  time taken for  inconvenience is 4524 
+
+leaven : 
+incorrect word 
+suggestions for the word :  been  behave  cease  clean  cleared  clearer  clever  driven  ease  eaten  time taken for  leaven is 3223 
+
+marknater : 
+incorrect word 
+suggestions for the word :  greater  manage  managed  manager  manages  manner  marked  market  market's  marriage  time taken for  marknater is 8102 
+
+membory : 
+incorrect word 
+suggestions for the word :  member  member's  members  memory  memory's  time taken for  membory is 11526 
+
+necessary : 
+ correct word
+ time taken for  necessary is 32444 
+
+lomite : 
+incorrect word 
+suggestions for the word :  admit  admits  bite  combine  come  coming  compute  finite  home  invite  time taken for  lomite is 4585 
+
+permfissance : 
+incorrect word 
+suggestions for the word :  circumstance  distance  existence  performance  performance's  permission  permission's  permits  permitting  persuade  time taken for  permfissance is 7259 
+
+procuctmmer : 
+incorrect word 
+suggestions for the word :  customer  produce  produced  produces  product  product's  production  products  programmer  programmers  time taken for  procuctmmer is 6823 
+
+releave : 
+incorrect word 
+suggestions for the word :  behave  believe  delete  leave  leaved  leaves  please  preserve  receive  received  time taken for  releave is 4585 
+
+server : 
+incorrect word 
+suggestions for the word :  better  clever  corner  cover  deliver  derive  derived  derives  driver  enter  time taken for  server is 1735 
+
+stadistioncal : 
+incorrect word 
+suggestions for the word :  additional  distinct  distinctly  national  station  station's  stations  statistic  statistical  statistics  time taken for  stadistioncal is 11029 
+
+thourgh : 
+incorrect word 
+suggestions for the word :  although  church  enough  fourth  hour  hour's  hours  rough  though  thought  time taken for  thourgh is 5917 
+
+trainsferlation : 
+incorrect word 
+suggestions for the word :  administration  consideration  conversation  demonstration  generation  information  instruction  manipulation  observation  relation  time taken for  trainsferlation is 12873 
+
+upserdate : 
+incorrect word 
+suggestions for the word :  alternate  desperate  generate  operate  operated  operates  update  updated  updates  upset  time taken for  upserdate is 7741 
+
+vision : 
+incorrect word 
+suggestions for the word :  action  decision  design  division  edition  fashion  lesson  listen  million  motion  time taken for  vision is 3589 
+
+wherebsver : 
+incorrect word 
+suggestions for the word :  eraser  forever  hereby  however  recover  server  there's  thereby  therefore  whatever  time taken for  wherebsver is 8799 
+
+brite : 
+incorrect word 
+suggestions for the word :  arise  bit  bite  bites  bits  bridge  brief  bring  broke  byte  time taken for  brite is 1332 
+
+zero : 
+ correct word
+ time taken for  zero is 3827 
+ 
+ 
+////final results
+
+for 8 threads:	
+SEQUENTIAL SPEED:1062824
+
+PARALLEL SPEED:394562
+
+Speed Up:2.69
+
