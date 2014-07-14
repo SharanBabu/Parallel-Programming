@@ -1,0 +1,16 @@
+AIM:
+	to find similarity between two text documents and determine if it is plagiarised. (Based on a paper attatched with this folder)
+	using Smith-Waterman Algorithm.
+
+The logic of the code:
+	Each sentence of the first file (src) is hashed and is compared with the hashed values of the sentences of the second file (des).
+	
+Here :
+	(i) Hash comparison is sufficient because the hash function is so unique that the probability of 2 words with same hash value is very low.
+	(ii) Each sentence should compulsorily end with "lastword[space]." and not "lastword."
+	(iii) The code is done for a paragraph and can be exteded to a text.
+
+Speed UP:
+	Sequential : 552676
+	Parallel : 237077
+	Speed Up : 2.34
